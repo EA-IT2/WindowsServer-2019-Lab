@@ -15,3 +15,6 @@ Virtual Box: to run Windows Server 2019 and Windows 10
 <br>
 <br>
 <img src="imgs/2cu.png" width="900">
+<br>
+<img src="imgs/3cd.png" width="900">
+<img src="imgs/4uc.png" width="900">
