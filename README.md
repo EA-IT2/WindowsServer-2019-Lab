@@ -9,3 +9,9 @@
 
 ### Software used:
 Virtual Box: to run Windows Server 2019 and Windows 10
+
+<br>
+<img src="imgs/1ne.png" width="900">
+<br>
+<br>
+<img src="imgs/2cu.png" width="900">
