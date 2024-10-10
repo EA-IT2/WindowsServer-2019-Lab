@@ -8,7 +8,7 @@
 
 For the full pdf version of this lab click on the link below, when viewing keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
 
-[Your Link Here](https://github.com/EA-IT2/WindowsServer-2016-Lab/blob/main/IT%20Support%20lab%20Windows%20server%202019.pdf)
+[Your Link Here](https://github.com/EA-IT2/WindowsServer-2019-Lab/blob/main/IT%20Support%20lab%20Windows%20server%202019.pdf)
 
 
 ### Software used:
